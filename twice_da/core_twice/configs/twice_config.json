@@ -1,0 +1,31 @@
+{
+  "caltech": {
+              "dataset": "caltech-256",
+              "dataset_path": "B:\\Downloads\\datasets\\Image Classification\\caltech-256",
+              "image_size": 224,
+              "batch_size": 32,
+              "num_classes": 257,
+              "device": "cuda",
+              "task": "multiclass",
+              "label_smoothing": 0.1,
+              "learning_rate": 0.0005,
+              "gradient_clipping": 5.0,
+              "accumulate_grad_batches": 2,
+              "epochs": 320
+              },
+
+  "cifar100": {
+              "dataset": "cifar-100",
+              "dataset_path": "B:\\Downloads\\datasets\\Image Classification\\cifar100",
+              "image_size": 224,
+              "batch_size": 32,
+              "num_classes": 100,
+              "device": "cuda",
+              "task": "multiclass",
+              "label_smoothing": 0.1,
+              "learning_rate": 0.0005,
+              "gradient_clipping": 5.0,
+              "accumulate_grad_batches": 2,
+              "epochs": 320
+              }
+}
