@@ -1,1 +1,1 @@
-# TWICE-DA: A Universal Encoder for Computer Vision Tasks
+# TWICE-DA: A Universal Encoder for Image Classification, Semantic Segmentation and Change Detection Tasks
