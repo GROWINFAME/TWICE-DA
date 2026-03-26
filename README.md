@@ -1,1 +1,1 @@
-# TWICE-DA: A Universal Hybrid Transformer-CNN Encoder for Computer Vision Tasks
+# TWICE-DA: A Universal Hybrid Transformer-CNN Architecture for Computer Vision Tasks
